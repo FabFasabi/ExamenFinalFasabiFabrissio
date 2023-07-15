@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714126834149",
+    "project_id": "examenfinalfasabi",
+    "storage_bucket": "examenfinalfasabi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714126834149:android:5477e64eb6548ceea9570c",
+        "android_client_info": {
+          "package_name": "com.example.examenfinalfasabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714126834149-johcnik3c1t2927hvoag5hp6c55cvse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07-r_aPYJ2fJKxzW2iTvA-mFnvVbGLVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714126834149-johcnik3c1t2927hvoag5hp6c55cvse4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
